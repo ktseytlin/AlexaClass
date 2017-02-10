@@ -2,7 +2,7 @@
 
 The base repo for the Alexa course at Pearl Hacks.
 
-The presentation is here: http://bit.ly/2idxFTV
+The presentation is here: http://bit.ly/2ltnJf3
 
 To get set up to start coding run the following commands:
 ```
