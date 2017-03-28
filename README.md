@@ -1,13 +1,11 @@
 # Alexa Class - Fun Facts
 
-The base repo for the Alexa course at Pearl Hacks.
-
-The presentation is here: http://bit.ly/2ltnJf3
+The base repo for the Alexa course.
 
 To get set up to start coding run the following commands:
 ```
-$ git clone https://github.com/ktseytlin/PearlHacks-AlexaClass.git
-$ cd PearlHacks-AlexaClass
+$ git clone https://github.com/ktseytlin/WIT-AlexaClass.git
+$ cd WIT-AlexaClass
 $ git checkout –b <<YOURNAME>>-funfact
 $ git branch
 ```
